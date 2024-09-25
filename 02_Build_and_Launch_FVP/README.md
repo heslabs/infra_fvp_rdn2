@@ -37,4 +37,4 @@ cd $WORKSPACE_PATH/model-scripts/rdinfra
 ---
 ### Linux boot message
 
-<img src="https://github.com/user-attachments/assets/022002ad-8d94-4096-ae09-b8a6d94f9e37" width=600>
+<img src="https://github.com/user-attachments/assets/8f68e77c-4771-46dd-a065-92f9228e47d1" width=800>
