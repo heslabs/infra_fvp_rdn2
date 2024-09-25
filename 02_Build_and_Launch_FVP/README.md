@@ -34,3 +34,7 @@ export DISTRO=ubuntu
 cd $WORKSPACE_PATH/model-scripts/rdinfra
 ./distro.sh -p rdn2 -d $ROOT_DIR/ubuntu.satadisk -n true -a "--parameter board.virtio_net.transport=modern --parameter disable_visualisation=true"
 ```
+---
+### Linux boot message
+
+<img src="https://github.com/user-attachments/assets/022002ad-8d94-4096-ae09-b8a6d94f9e37" width=600>
